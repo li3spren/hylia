@@ -1,5 +1,6 @@
 ---
 title: A post with code samples
+eleventyExcludeFromCollections: true
 date: '2019-06-18'
 tags:
   - demo-content
