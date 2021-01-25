@@ -1,13 +1,13 @@
 {
   "showThemeCredit": true,
   "name": "Kaushal Patel",
-  "shortDesc": "WIP",
+  "shortDesc": "",
   "url": "li3spren.com",
   "authorEmail": "kaushal197@gmail.com",
   "authorHandle": "@li3spren",
   "authorName": "Kaushal Patel",
   "enableThirdPartyComments": false,
-  "paymentPointer": "$ilp.uphold.com/MggmnFEyQqhk",
+  "paymentPointer": "",
   "faviconPath": "/images/favicon.png",
   "maxPostsPerPage": 5
 }
