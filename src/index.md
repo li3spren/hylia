@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Welcome.
+title: Welcome 👋
 metaDesc: ""
 postsHeading: Latest posts
 archiveButtonText: See all posts
@@ -8,4 +8,4 @@ socialImage: ""
 ---
 I'm Kaushal Patel, a Fullstack Web Developer working in the FinTech space and an aspiring Solo-preneur!
 
-More to come soon.
+Expect more from me soon.
