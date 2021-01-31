@@ -23,6 +23,15 @@
       gtag('js', new Date());
 
       gtag('config', 'G-9KF7N8ZNMG');
+
+      var captureOutboundLink = function (url) {
+        ga('send', 'event', 'outbound', 'click', url, {
+          'transport': 'beacon',
+          'hitCallback': function () {
+            document.location = url;
+          }
+        });
+      }
     </script>
     <style>
       {% include "assets/css/global.css" %}
