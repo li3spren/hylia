@@ -6,6 +6,8 @@ tags:
 ---
 We've all been introduced to the Chrome DevTools as new devs... heck, even regular users messing around with the browser have discovered the "Inspect Element" tool. As a dev, you will have learned about using `console.log` to print variables and logic to the "console" on the browser. This is all normal in the passage of a fresh web developer, however lot of devs never take full advantage of the Chrome DevTools.
 
+Whichever option you choose, the out-of-the-box VCS and Git feature is useful. It’s so powerful with diff-checking, conflicts, tracking by file, etc… For command line users, this can be a time-saver. For GUI users, this means one less application to open and have running on your machine. To me, this is a win/win.
+
 Do you still use `console.log` as your sole debugging tool? There is a high chance that it's wasting you a lot of time when it comes to modern Frontend development for the web.
 
 `console.log` is a viable logging tool, but as a debugger it lacks a lot vision. Let's take some sample projects and compare the two tools.
