@@ -1,18 +1,17 @@
 ---
 title: 5 Key Areas To Master VSCode
-date: '2021-02-23'
+date: 2021-02-23
 tags:
   - blog
 ---
-# 5 Key Areas To Master VSCode
-
 VSCode has become the hot tool in development. We don't all have to like it, but you can't deny it is the most used development tool with over [50% of developers using it for their daily work.](https://insights.stackoverflow.com/survey/2019#development-environments-and-tools)
 
-The flexibility of VSCode is what makes it such a solid tool for various forms of development. Out of the box, it's a super simple text editor. There is never a reason to use any of it's fancy tooling or community created extensions, however, if you really want to make the most of VSCode here are the 5 key concepts you need to learn.
+The flexibility of VSCode is what makes it such a solid tool for various forms of development. Out of the box, it's a super simple text editor. There is never a reason to use any of its fancy tooling or community created extensions, however, if you really want to make the most of VSCode here are the 5 key areas you need to understand.
 
-***Disclaimer!!****: Most of the shortcuts will state **Cmd**, kindly translate this to **Ctrl** if you use a non-MacOS related device.* 
+**\*Disclaimer!!\****: Most of the shortcuts will state **Cmd**, kindly translate this to **Ctrl** if you use a non-MacOS related device.* 
 
 ## Navigation
+
 This editor is FULL of keyboard shortcuts, a lot of them come in handy for traversing the crazy number of tabs we mindlessly open up. 
 
 **`Cmd + P`**: Quickly Jump to File
@@ -32,6 +31,7 @@ Since VSCode is based on Electron, you use the tab switching shortcut from Chrom
 ![](/images/tab_shifting.gif)
 
 ## Intellisense
+
 Intellisense is my favourite component to VSCode, it's so seamless. VSCode gives you very basic static analysis and refactoring capabilities depending on the type of file you're editing.
 
 **`Ctrl + Space`**: Activate autocomplete feature for item under cursor
@@ -49,6 +49,7 @@ The real meat of intellisense comes in it's refactoring capabilities! I will sho
 I was only able to show an example from a local function in my project. Try it in your own codebase, it will affect the naming for all appropriate instances.
 
 ## VCS/Git
+
 I like using the command line for Git personally, on the other hand a lot of my co-workers say a GUI Git tool is the best.
 
 ![](/images/whatever.gif)
@@ -63,10 +64,11 @@ Refined and common Git commands can be accessed by clicking the ellipsis. The **
 
 ![](/images/diff.png)
 
-Now if only there was a way to review PRs in VSCode when using Github enterprise. If any of you know of a tool like this, please DM me on Twitter :pray: 
+Now if only there was a way to review PRs in VSCode when using Github enterprise. If any of you know of a tool like this, please DM me on [Twitter](https://twitter.com/talesofadev) 🙏
 
 ## Zen Mode
-Let your mind be free of distractions :prayer_beads: 
+
+Let your mind be free of distractions 📿 
 
 **Cmd + K -> Z**
 
@@ -74,12 +76,11 @@ Let your mind be free of distractions :prayer_beads:
 
 ## Extensions
 
-I think we all know about Extensions, they are essentially plugins to help with specific issues/expansions you want for the editor. As a web developer I use a few productivity and tracking extenstions:
+I think we all know about Extensions, they are essentially plugins to help with specific issues/expansions you want for the editor. As a web developer I use a few productivity and tracking extensions:
 
-- Todo Tree
-- Todo Highlight
-- Prettier
-- GitLens
-- Language-specific extensions
-- Bonus: Themes 
-
+* Todo Tree
+* Todo Highlight
+* Prettier
+* GitLens
+* Language-specific extensions
+* Bonus: Themes
