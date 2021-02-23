@@ -1,6 +1,6 @@
 ---
 title: 5 Key Areas To Master VSCode
-date: 2021-02-23
+date: 2021-02-23T14:02:53.585Z
 tags:
   - blog
 ---
