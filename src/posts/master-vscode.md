@@ -84,3 +84,7 @@ I think we all know about Extensions, they are essentially plugins to help with 
 * GitLens
 * Language-specific extensions
 * Bonus: Themes
+
+
+
+[Follow me on Twitter](https://twitter.com/talesofadev) for updates on my ebook: `Git Animated - A Visual Guide to Understanding Git`
